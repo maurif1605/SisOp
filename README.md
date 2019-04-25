@@ -68,10 +68,10 @@ Efetuado download do arquivo cidades_sc.txt conforme pedia no exercício;
 ``` 
 comando grep Balneario cidades sc.txt
 apresentou o resultado da busca por cidades que possuem Balneario no nome:
-Balneario Arroio do Silva
-Balneario Barra do Sul
-Balneario Camboriu
-Balneario Gaivota
+Balneario Arroio do Silva;
+Balneario Barra do Sul;
+Balneario Camboriu;
+Balneario Gaivota;
 ```
 Ex. 13.
 
@@ -83,19 +83,19 @@ Ao executar o comando grep "do sul" cidades_sc.txt não retornou nenhuma cidade 
 
 Ao executar grep do sul cidades_sc.txt o programa retorna todas as cidades que possuem "do" e/ou "sul" no nome
 
-Ex: Abelardo Luz
-    Balneario Barra do Sul
-    Ponte Alta do Norte
-   
+Ex: Abelardo Luz;
+    Balneario Barra do Sul;
+    Ponte Alta do Norte;
+  
 Ex 15.
 
 utilizando o comando cat cidades_sc.txt | grep Balneario
 
 Retornou as cidades:
-Balneario Arroio do Silva
-Balneario Barra do Sul
-Balneario Camboriu
-Balneario Gaivota
+Balneario Arroio do Silva;
+Balneario Barra do Sul;
+Balneario Camboriu;
+Balneario Gaivota;
 
 Ex 16.
 
